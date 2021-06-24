@@ -1,5 +1,6 @@
 
 import './App.css';
+
 import { About } from './components/About';
 import { Education } from './components/Education';
 import { Navbar } from './components/Navbar';
@@ -14,6 +15,8 @@ import { Footer } from './components/Footer';
 import { Modal } from './components/Modal';
 import axios from 'axios';
 import {useEffect,useState} from 'react'
+import { SkillsV2 } from './SkillsV2';
+import { SkillsV3 } from './components/SkillsV3';
 
 
 function App() {
@@ -57,8 +60,9 @@ function App() {
       <About/>
       <Follow/>
       <Education/>
-      <Skills/>
       {/* <Skills/> */}
+      {/* <Skills/> */}
+   <SkillsV3/>
       <Work/>
       <Projects/>
       <Socials/>

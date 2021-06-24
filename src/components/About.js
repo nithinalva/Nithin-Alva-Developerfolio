@@ -35,7 +35,7 @@ export const About = () => {
            
              <p>Hello Folks.I'm Nithin Alva!<br/>An enthusiastic self-taught programmer.<br/> i'm 24 years old, keep scrolling to know more about me.</p>
              <Router style={{textDecoration:"none"}}>
-             <Link to={{ pathname: "https://github.com/nithinalva" }} target="_blank"  ><button className="btn"><i className="fa fa-github" ></i> Github</button></Link>
+             <Link to={{ pathname: "https://github.com/nithinalva" }} target="_blank"  ><button className="btn1"><i className="fa fa-github" ></i> Github</button></Link>
             <Link to={{ pathname: "https://www.linkedin.com/in/nithin-sk-b2a857175/" }} target="_blank" >  <button className="btn-lin"><i className="fa fa-linkedin"></i> Linkedin</button></Link>
 
              </Router>
