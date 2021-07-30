@@ -125,7 +125,7 @@ export const Contact = () => {
 
                               <div className="profile-img">
                               <Fade>
-                                    <img src ="https://scontent.fblr22-1.fna.fbcdn.net/v/t1.6435-9/119462433_1403833719816172_4308367676970215698_n.jpg?_nc_cat=107&ccb=1-3&_nc_sid=09cbfe&_nc_ohc=dk0Ej4SDeOsAX8nkcTc&tn=h3Xm48bZDNuzZKv2&_nc_ht=scontent.fblr22-1.fna&oh=15d64a02d568e3af7371d0b7eabd10d7&oe=60DAADF5"/>
+                                    <img src ="/images/146553583_1519975528201990_1341364917191097337_n.jpg"/>
                                     </Fade>
                                     </div>
                                    
